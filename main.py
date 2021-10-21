@@ -8,7 +8,7 @@ from aiogram.utils import executor
 from sqliter import SQLighter
 from utils import get_floor_price_nft
 
-COLLECTION_URL = 'https://jmccmlyu33.medianetwork.cloud/nft_for_sale?collection=%s'
+COLLECTION_URL = 'https://qzlsklfacc.medianetwork.cloud/nft_for_sale?collection=%s'
 NFT_URL = 'https://solanart.io/search/?token=%s'
 
 logging.basicConfig(level=logging.INFO, filename='bot.log')
